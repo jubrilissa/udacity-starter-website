@@ -11,3 +11,4 @@ index.html - The Index document for the website.
 
 
 CloudFront url: https://dgcgikczg4bi3.cloudfront.net/
+s3 website-endpoint-url: http://issa-udacity-project.s3-website-us-east-1.amazonaws.com/
